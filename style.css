@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+  }
+h1{
+    text-align: center;
+    color: red;
+}
+
+.casella{
+    outline: red 3px solid;
+    width: 33%;
+    height: 33%;
+    position: static;
+    background-color: white;
+    margin: auto;
+    display: inline-block;
+}
